@@ -130,7 +130,7 @@
 		<div><center><br><font color="#a0d0d0"><h4>相关课程</h4></font></center></div>
         <ul>
             <li class="nav-item">
-                <a href="javascript:;"><i class="nav-icon icon_3"></i><span>线性代数</span><i class="nav-more"></i></a>
+                <a href="javascript:;"><i class="nav-icon icon_3"></i><span>力学 </span><i class="nav-more"></i></a>
                 <ul>
                     <li><a href="javascript:;" id="TD_Item61" onclick="chickMenu(61);"><span>课程介绍</span></a></li>
                     <li><a href="javascript:;" id="TD_Item62" onclick="chickMenu(62);"><span>参考文献</span></a></li>
@@ -145,7 +145,7 @@
                 </ul>
             </li>
             <li class="nav-item">
-                <a href="javascript:;"><i class="nav-icon icon_3"></i><span>数学物理方法</span><i class="nav-more"></i></a>
+                <a href="javascript:;"><i class="nav-icon icon_3"></i><span>线性代数</span><i class="nav-more"></i></a>
                 <ul>
                     <li><a href="javascript:;" id="TD_Item71" onclick="chickMenu(71);"><span>课程介绍</span></a></li>
                     <li><a href="javascript:;" id="TD_Item72" onclick="chickMenu(72);"><span>参考文献</span></a></li>
@@ -160,7 +160,7 @@
                 </ul>
             </li>
             <li class="nav-item">
-                <a href="javascript:;"><i class="nav-icon icon_3"></i><span>非线性科学</span><i class="nav-more"></i></a>
+                <a href="javascript:;"><i class="nav-icon icon_3"></i><span>数学物理方法</span><i class="nav-more"></i></a>
                 <ul>
                     <li><a href="javascript:;" id="TD_Item81" onclick="chickMenu(81);"><span>课程介绍</span></a></li>
                     <li><a href="javascript:;" id="TD_Item82" onclick="chickMenu(82);"><span>参考文献</span></a></li>
@@ -175,7 +175,7 @@
                 </ul>
             </li>
             <li class="nav-item">
-                <a href="javascript:;"><i class="nav-icon icon_3"></i><span>计算物理 </span><i class="nav-more"></i></a>
+                <a href="javascript:;"><i class="nav-icon icon_3"></i><span>非线性科学</span><i class="nav-more"></i></a>
                 <ul>
                     <li><a href="javascript:;" id="TD_Item91" onclick="chickMenu(91);"><span>课程介绍</span></a></li>
                     <li><a href="javascript:;" id="TD_Item92" onclick="chickMenu(92);"><span>参考文献</span></a></li>
@@ -190,7 +190,7 @@
                 </ul>
             </li>
             <li class="nav-item">
-                <a href="javascript:;"><i class="nav-icon icon_3"></i><span>力学 </span><i class="nav-more"></i></a>
+                <a href="javascript:;"><i class="nav-icon icon_3"></i><span>计算物理 </span><i class="nav-more"></i></a>
                 <ul>
                     <li><a href="javascript:;" id="TD_Item101" onclick="chickMenu(101);"><span>课程介绍</span></a></li>
                     <li><a href="javascript:;" id="TD_Item102" onclick="chickMenu(102);"><span>参考文献</span></a></li>
@@ -390,20 +390,20 @@
 		<div id="Table_Item60" style="DISPLAY: none">
 			<div class="p"><center><br><h1>TBD60...</h1></center></div>
 		</div>
-		<div id="Table_Item61" style="background:url(LinearAlgebra/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
-			<script>$("#Table_Item61").load("LinearAlgebra/introduce.html");</script>
+		<div id="Table_Item61" style="background:url(Mechanics/bg.png) center no-repeat fixed;background-size:auto 70%; DISPLAY: none">
+			<script>$("#Table_Item61").load("Mechanics/introduce.html");</script>
 		</div>
-		<div id="Table_Item62" style="background:url(LinearAlgebra/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
-			<script>$("#Table_Item62").load("LinearAlgebra/reference.html");</script>
+		<div id="Table_Item62" style="background:url(Mechanics/bg.png) center no-repeat fixed;background-size:auto 70%; DISPLAY: none">
+			<script>$("#Table_Item62").load("Mechanics/reference.html");</script>
 		</div>
-		<div id="Table_Item63" style="background:url(LinearAlgebra/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
-			<script>$("#Table_Item63").load("LinearAlgebra/plan.html");</script>
+		<div id="Table_Item63" style="background:url(Mechanics/bg.png) center no-repeat fixed;background-size:auto 70%; DISPLAY: none">
+			<script>$("#Table_Item63").load("Mechanics/plan.html");</script>
 		</div>
-		<div id="Table_Item64" style="background:url(LinearAlgebra/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
-			<script>$("#Table_Item64").load("LinearAlgebra/program.html");</script>
+		<div id="Table_Item64" style="background:url(Mechanics/bg.png) center no-repeat fixed;background-size:auto 70%; DISPLAY: none">
+			<script>$("#Table_Item64").load("Mechanics/program.html");</script>
 		</div>
-		<div id="Table_Item65" style="background:url(LinearAlgebra/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
-			<script>$("#Table_Item65").load("LinearAlgebra/courseware.html");</script>
+		<div id="Table_Item65" style="background:url(Mechanics/bg.png) center no-repeat fixed;background-size:auto 70%; DISPLAY: none">
+			<script>$("#Table_Item65").load("Mechanics/courseware.html");</script>
 		</div>
 		<div id="Table_Item66" style="DISPLAY: none">
 			<div class="p"><center><br><h1>TBD66...</h1></center></div>
@@ -420,20 +420,20 @@
 		<div id="Table_Item70" style="DISPLAY: none">
 			<div class="p"><center><br><h1>TBD70...</h1></center></div>
 		</div>
-		<div id="Table_Item71" style="background:url(MethodsofMathematicalPhysics/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
-			<script>$("#Table_Item71").load("MethodsofMathematicalPhysics/introduce.html");</script>
+		<div id="Table_Item71" style="background:url(LinearAlgebra/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
+			<script>$("#Table_Item71").load("LinearAlgebra/introduce.html");</script>
 		</div>
-		<div id="Table_Item72" style="background:url(MethodsofMathematicalPhysics/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
-			<script>$("#Table_Item72").load("MethodsofMathematicalPhysics/reference.html");</script>
+		<div id="Table_Item72" style="background:url(LinearAlgebra/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
+			<script>$("#Table_Item72").load("LinearAlgebra/reference.html");</script>
 		</div>
-		<div id="Table_Item73" style="background:url(MethodsofMathematicalPhysics/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
-			<script>$("#Table_Item73").load("MethodsofMathematicalPhysics/plan.html");</script>
+		<div id="Table_Item73" style="background:url(LinearAlgebra/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
+			<script>$("#Table_Item73").load("LinearAlgebra/plan.html");</script>
 		</div>
-		<div id="Table_Item74" style="background:url(MethodsofMathematicalPhysics/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
-			<script>$("#Table_Item74").load("MethodsofMathematicalPhysics/program.html");</script>
+		<div id="Table_Item74" style="background:url(LinearAlgebra/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
+			<script>$("#Table_Item74").load("LinearAlgebra/program.html");</script>
 		</div>
-		<div id="Table_Item75" style="background:url(MethodsofMathematicalPhysics/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
-			<script>$("#Table_Item75").load("MethodsofMathematicalPhysics/courseware.html");</script>
+		<div id="Table_Item75" style="background:url(LinearAlgebra/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
+			<script>$("#Table_Item75").load("LinearAlgebra/courseware.html");</script>
 		</div>
 		<div id="Table_Item76" style="DISPLAY: none">
 			<div class="p"><center><br><h1>TBD76...</h1></center></div>
@@ -450,20 +450,20 @@
 		<div id="Table_Item80" style="DISPLAY: none">
 			<div class="p"><center><br><h1>TBD80...</h1></center></div>
 		</div>
-		<div id="Table_Item81" style="background:url(NonlinearScience/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
-			<script>$("#Table_Item81").load("NonlinearScience/introduce.html");</script>
+		<div id="Table_Item81" style="background:url(MethodsofMathematicalPhysics/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
+			<script>$("#Table_Item81").load("MethodsofMathematicalPhysics/introduce.html");</script>
 		</div>
-		<div id="Table_Item82" style="background:url(NonlinearScience/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
-			<script>$("#Table_Item82").load("NonlinearScience/reference.html");</script>
+		<div id="Table_Item82" style="background:url(MethodsofMathematicalPhysics/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
+			<script>$("#Table_Item82").load("MethodsofMathematicalPhysics/reference.html");</script>
 		</div>
-		<div id="Table_Item83" style="background:url(NonlinearScience/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
-			<script>$("#Table_Item83").load("NonlinearScience/plan.html");</script>
+		<div id="Table_Item83" style="background:url(MethodsofMathematicalPhysics/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
+			<script>$("#Table_Item83").load("MethodsofMathematicalPhysics/plan.html");</script>
 		</div>
-		<div id="Table_Item84" style="background:url(NonlinearScience/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
-			<script>$("#Table_Item84").load("NonlinearScience/program.html");</script>
+		<div id="Table_Item84" style="background:url(MethodsofMathematicalPhysics/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
+			<script>$("#Table_Item84").load("MethodsofMathematicalPhysics/program.html");</script>
 		</div>
-		<div id="Table_Item85" style="background:url(NonlinearScience/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
-			<script>$("#Table_Item85").load("NonlinearScience/courseware.html");</script>
+		<div id="Table_Item85" style="background:url(MethodsofMathematicalPhysics/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
+			<script>$("#Table_Item85").load("MethodsofMathematicalPhysics/courseware.html");</script>
 		</div>
 		<div id="Table_Item86" style="DISPLAY: none">
 			<div class="p"><center><br><h1>TBD86...</h1></center></div>
@@ -480,20 +480,20 @@
 		<div id="Table_Item90" style="DISPLAY: none">
 			<div class="p"><center><br><h1>TBD90...</h1></center></div>
 		</div>
-		<div id="Table_Item91" style="background:url(ComputationalPhysics/bg.png) center no-repeat fixed;background-size:auto 70%; DISPLAY: none">
-			<script>$("#Table_Item91").load("ComputationalPhysics/introduce.html");</script>
+		<div id="Table_Item91" style="background:url(NonlinearScience/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
+			<script>$("#Table_Item91").load("NonlinearScience/introduce.html");</script>
 		</div>
-		<div id="Table_Item92" style="background:url(ComputationalPhysics/bg.png) center no-repeat fixed;background-size:auto 70%; DISPLAY: none">
-			<script>$("#Table_Item92").load("ComputationalPhysics/reference.html");</script>
+		<div id="Table_Item92" style="background:url(NonlinearScience/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
+			<script>$("#Table_Item92").load("NonlinearScience/reference.html");</script>
 		</div>
-		<div id="Table_Item93" style="background:url(ComputationalPhysics/bg.png) center no-repeat fixed;background-size:auto 70%; DISPLAY: none">
-			<script>$("#Table_Item93").load("ComputationalPhysics/plan.html");</script>
+		<div id="Table_Item93" style="background:url(NonlinearScience/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
+			<script>$("#Table_Item93").load("NonlinearScience/plan.html");</script>
 		</div>
-		<div id="Table_Item94" style="background:url(ComputationalPhysics/bg.png) center no-repeat fixed;background-size:auto 70%; DISPLAY: none">
-			<script>$("#Table_Item94").load("ComputationalPhysics/program.html");</script>
+		<div id="Table_Item94" style="background:url(NonlinearScience/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
+			<script>$("#Table_Item94").load("NonlinearScience/program.html");</script>
 		</div>
-		<div id="Table_Item95" style="background:url(ComputationalPhysics/bg.png) center no-repeat fixed;background-size:auto 70%; DISPLAY: none">
-			<script>$("#Table_Item95").load("ComputationalPhysics/courseware.html");</script>
+		<div id="Table_Item95" style="background:url(NonlinearScience/bg.png) center no-repeat fixed;background-size:auto 90%; DISPLAY: none">
+			<script>$("#Table_Item95").load("NonlinearScience/courseware.html");</script>
 		</div>
 		<div id="Table_Item96" style="DISPLAY: none">
 			<div class="p"><center><br><h1>TBD96...</h1></center></div>
@@ -510,20 +510,20 @@
 		<div id="Table_Item100" style="DISPLAY: none">
 			<div class="p"><center><br><h1>TBD100...</h1></center></div>
 		</div>
-		<div id="Table_Item101" style="background:url(Mechanics/bg.png) center no-repeat fixed;background-size:auto 70%; DISPLAY: none">
-			<script>$("#Table_Item101").load("Mechanics/introduce.html");</script>
+		<div id="Table_Item101" style="background:url(ComputationalPhysics/bg.png) center no-repeat fixed;background-size:auto 70%; DISPLAY: none">
+			<script>$("#Table_Item101").load("ComputationalPhysics/introduce.html");</script>
 		</div>
-		<div id="Table_Item102" style="background:url(Mechanics/bg.png) center no-repeat fixed;background-size:auto 70%; DISPLAY: none">
-			<script>$("#Table_Item102").load("Mechanics/reference.html");</script>
+		<div id="Table_Item102" style="background:url(ComputationalPhysics/bg.png) center no-repeat fixed;background-size:auto 70%; DISPLAY: none">
+			<script>$("#Table_Item102").load("ComputationalPhysics/reference.html");</script>
 		</div>
-		<div id="Table_Item103" style="background:url(Mechanics/bg.png) center no-repeat fixed;background-size:auto 70%; DISPLAY: none">
-			<script>$("#Table_Item103").load("Mechanics/plan.html");</script>
+		<div id="Table_Item103" style="background:url(ComputationalPhysics/bg.png) center no-repeat fixed;background-size:auto 70%; DISPLAY: none">
+			<script>$("#Table_Item103").load("ComputationalPhysics/plan.html");</script>
 		</div>
-		<div id="Table_Item104" style="background:url(Mechanics/bg.png) center no-repeat fixed;background-size:auto 70%; DISPLAY: none">
-			<script>$("#Table_Item104").load("Mechanics/program.html");</script>
+		<div id="Table_Item104" style="background:url(ComputationalPhysics/bg.png) center no-repeat fixed;background-size:auto 70%; DISPLAY: none">
+			<script>$("#Table_Item104").load("ComputationalPhysics/program.html");</script>
 		</div>
-		<div id="Table_Item105" style="background:url(Mechanics/bg.png) center no-repeat fixed;background-size:auto 70%; DISPLAY: none">
-			<script>$("#Table_Item105").load("Mechanics/courseware.html");</script>
+		<div id="Table_Item105" style="background:url(ComputationalPhysics/bg.png) center no-repeat fixed;background-size:auto 70%; DISPLAY: none">
+			<script>$("#Table_Item105").load("ComputationalPhysics/courseware.html");</script>
 		</div>
 		<div id="Table_Item106" style="DISPLAY: none">
 			<div class="p"><center><br><h1>TBD106...</h1></center></div>
