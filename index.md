@@ -55,7 +55,7 @@
                     <li><a href="javascript:;" id="TD_Item14" onclick="chickMenu(14);"><span>教学大纲</span></a></li>
                     <li><a href="javascript:;" id="TD_Item15" onclick="chickMenu(15);"><span>课件    </span></a></li>
                     <li><a href="javascript:;" id="TD_Item16" onclick="chickMenu(16);"><span>自测题  </span></a></li>
-                    <li><a href="javascript:;" id="TD_Item17" onclick="chickMenu(17);"><span>教学录像</span></a></li>
+                    <li><a href="javascript:;" id="TD_Item17" onclick="chickMenu(17);"></a></li>
                     <li><a href="javascript:;" id="TD_Item18" onclick="chickMenu(18);"><span>师生互动</span></a></li>
                     <li><a                     id="TD_Item19" onclick="chickMenu(19);"></a></li>
                     <li><a                     id="TD_Item20" onclick="chickMenu(20);"></a></li>
@@ -104,7 +104,7 @@
                     <li><a href="javascript:;" id="TD_Item44" onclick="chickMenu(44);"><span>教学大纲</span></a></li>
                     <li><a href="javascript:;" id="TD_Item45" onclick="chickMenu(45);"><span>课件    </span></a></li>
                     <li><a href="javascript:;" id="TD_Item46" onclick="chickMenu(46);"><span>自测题  </span></a></li>
-                    <li><a href="javascript:;" id="TD_Item47" onclick="chickMenu(47);"><span>教学录像</span></a></li>
+                    <li><a href="javascript:;" id="TD_Item47" onclick="chickMenu(47);"></a></li>
                     <li><a href="javascript:;" id="TD_Item48" onclick="chickMenu(48);"><span>师生互动</span></a></li>
                     <li><a                     id="TD_Item49" onclick="chickMenu(49);"></a></li>
                     <li><a                     id="TD_Item50" onclick="chickMenu(50);"></a></li>
