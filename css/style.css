@@ -1,0 +1,58 @@
+/* CSS Document */
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,li,form,img,dl,dt,dd,table,th,td,blockquote,fieldset,div,strong,label,em{margin:0;padding:0;border:0;}
+ul,ol,li{list-style:none;}
+input,button{margin:0;font-size:12px;vertical-align:middle;}
+/*body{font-size:12px;font-family:Arial, Helvetica, sans-serif;  text-align:center; margin:0 auto; background:#000;}*/
+body{font:14px "微软雅黑","宋体","Arial Narrow",HELVETICA;-webkit-text-size-adjust:100%;} 
+table{border-collapse:collapse;border-spacing:0;}
+
+.clearfloat{height:0;font-size:1px;clear:both;line-height:0;}
+
+#container{ width:100%; text-align:center; margin:0 auto; }
+a{text-decoration:none;}
+a:hover{color:#ef9b11; text-decoration:underline;}
+
+.main{ width:100%; margin:0 auto; text-align:left;}
+/*.nav{ width:220px; float:left; display:inline; margin-left:70px; overflow:hidden; background:#c0c0c0}*/
+.nav{width: 220px;height: 100%; float:left;background:#000040;transition: all .3s;}
+.nav .pic{ width:100%; padding-bottom:5px; background:#fff;}
+.nav .p{ line-height:18px;font-size:13px; margin-bottom:10px; padding:5px;}
+.nav .more{ float:right; margin-right:10px; display:inline;}
+.nav a{display: block;overflow: hidden;padding-left: 20px;line-height: 40px;max-height: 40px;color: #FFFFFF;transition: all .3s;}
+.nav a span{margin-left: 30px;}
+.nav-item{position: relative;}
+.nav-item.nav-show{border-bottom: none;}
+.nav-item ul{display: none;background: rgba(0,0,0,.1);}
+.nav-item.nav-show ul{display: block;}
+.nav-item>a:before{content: "";position: absolute;left: 0px;width: 2px;height: 40px;background: #FFFF00;opacity:0;transition: all .3s;}
+.nav .nav-icon{font-size: 20px;position: absolute;margin-left:-1px;}
+/* 此处修改导航图标 可自定义iconfont 替换*/
+.icon_1{width:36px;height:37px;background: url("../images/book1.png") no-repeat;background-size:26px 26px;background-position:bottom left;}
+.icon_2{width:36px;height:37px;background: url("../images/book2.png") no-repeat;background-size:26px 26px;background-position:bottom left;}
+.icon_3{width:36px;height:37px;background: url("../images/book3.png") no-repeat;background-size:26px 26px;background-position:bottom left;}
+/*---------------------*/
+.nav-more{float:right;margin-right: 20px;font-size: 12px;transition: transform .3s;}
+/* 此处为导航右侧箭头 如果自定义iconfont 也需要替换*/
+.nav-more::after{content: "\22bf";}
+/*---------------------*/
+.nav-show .nav-more{transform:rotate(90deg);}
+.nav-show,.nav-item>a:hover{color: #FFFF00;background:rgba(0,0,0,.1);}
+.nav-show>a:before,.nav-item>a:hover:before{opacity:1;}
+.nav-item li:hover a{color: #FFFF00;background: rgba(0, 0, 0,.1);}
+
+/* nav-mini */
+.nav-mini.nav{width: 60px;}
+.nav-mini.nav .nav-icon{/* margin-left:-2px; */}
+.nav-mini.nav .nav-item>a span{display: none;}
+.nav-mini.nav .nav-more{margin-right: -20px;}
+.nav-mini.nav .nav-item ul{position: absolute;top:0px;left:60px;width: 180px;z-index: 99;background:#3C474C;overflow: hidden;}
+.nav-mini.nav .nav-item:hover{background:rgba(255,255,255,.1);}
+.nav-mini.nav .nav-item:hover .nav-item a{color:#FFF;}
+.nav-mini.nav .nav-item:hover a:before{opacity:1;}
+.nav-mini.nav .nav-item:hover ul{display: block;}
+
+.cnt{display:table-cell; width:8000px; line-height: 30px;margin-left:0px; padding:20px;}
+/*.cnt{ padding-top:10px; width:800px; float:left; display:inline; margin-left:30px;}*/
+.cnt h2{ padding-bottom:15px;}
+.cnt h4{ line-height:28px; font-size:14px; cursor:pointer; color:#ff9c00; letter-spacing:1px; padding-left:15px;}
+
